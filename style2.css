@@ -3,7 +3,13 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   box-sizing: border-box;
 }
+h1{
+      color: #2f3c7e;
+}
 
+h3{
+      color: lightpink;
+}
 body {
   font-family: "Roboto", sans-serif;
   display: flex;
