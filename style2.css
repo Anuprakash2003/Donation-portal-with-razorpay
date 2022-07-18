@@ -7,7 +7,7 @@
 body {
   font-family: "Roboto", sans-serif;
   display: flex;
-  background-color: #f70a0aee;
+  background-color: lightpink;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -17,7 +17,7 @@ body {
 }
 
 .Donate {
-  background-color: #f1f513;
+  background-color: #2f3c7e;
   width: 700px;
   text-align: center;
   height: 550px;
